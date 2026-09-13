@@ -1,0 +1,1 @@
+# AI-Agriculture-Drone-for-Crop-Disease-Prediction-and-Pesticide-Dosage-Optimization
